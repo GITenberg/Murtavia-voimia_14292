@@ -20,6 +20,8 @@ creator:
     - http://fi.wikipedia.org/wiki/Santeri_Alkio
     - http://en.wikipedia.org/wiki/Santeri_Alkio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14292#Murtavia-voimia
 gutenberg_issued: '2004-12-07'
 gutenberg_type: Text
 identifiers:
